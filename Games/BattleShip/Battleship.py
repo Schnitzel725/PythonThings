@@ -36,7 +36,7 @@ for turn in range(4):
             print "Enemy ship sunk"
             break
         else:
-            if (guess_row < 0 or guess_row > 4) or (guess_col <         0 or guess_col > 4):
+            if (guess_row < 0 or guess_row > 4) or (guess_col < 0 or guess_col > 4):
                 print "Out of Bounds"
             elif(board[guess_row][guess_col] == "X"):
                 print "Retry"
