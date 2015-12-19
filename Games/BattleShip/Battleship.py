@@ -1,5 +1,4 @@
 #Code for CommandLine Battleship written in Python
-#Inspired by Codeacademy Python tutorials
 
 from random import randint
 
