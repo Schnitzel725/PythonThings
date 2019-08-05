@@ -1,2 +1,2 @@
-# PythonTrials
-A collection of Python code for learning out of Codecademy.
+# PythonThings
+For learning python 2.7 things.
